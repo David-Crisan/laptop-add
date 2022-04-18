@@ -1,0 +1,62 @@
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.logo h3 {
+   font-size: 30px;
+   font-weight: 600;
+}
+
+.logo h3, .nav-links a {
+    color: var(--main-bgcolor);
+}
+
+.cart {
+   text-decoration: none;
+   font-size: 23px;
+   color: var(--main-bgcolor);
+   font-weight: 800;
+}
+
+.vivobook {
+   height: 70vh;
+}
+
+.intro-text h1 {
+   font-size: 30px;
+}
+
+.intro-text p {
+   margin-top: 20px;
+   margin-bottom: 45px;
+   font-size: 18px;
+   color: var(--main-bgcolor);
+   
+}
+.cta-select {
+   border: 2px solid rgba(181, 25, 105, 1);
+   width: 135px;
+   height: 40px;
+   font-family: 'Poppins';
+   color: rgba(181, 25, 105, 1);
+   
+}
+
+.cta-add {
+   border: 2px solid rgba(181, 25, 105, 1);
+   width: 135px;
+   height: 40px;
+   font-family: 'Poppins';
+   color: floralwhite;
+   background-color:rgba(181, 25, 105, 1);
+   
+
+}
+

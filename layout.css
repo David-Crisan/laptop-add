@@ -1,0 +1,47 @@
+ header {
+     width: 90%;
+     height: 10vh;
+     display: flex;
+     margin: auto;
+     justify-content: space-between;
+     align-items: center;
+     
+ }
+
+.logo {
+     
+    flex: 1;
+}
+
+nav{
+    
+    flex: 2;
+}
+
+.icon {
+     justify-content: right;
+     display: flex;
+     justify-content: flex-end;
+     flex: 1;    
+}
+
+.presentation {
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+ 
+.introduction {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+     
+}
+
+ 
+ 
+
+ 

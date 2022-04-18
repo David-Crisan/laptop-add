@@ -1,0 +1,16 @@
+ @media screen and (max-width:975px) {
+.presentation {
+    flex-direction: column;
+    text-align: center;
+}
+
+.introduction {
+    margin-top: 9vh;
+}
+}
+
+@media screen and (max-width: 500px) {
+    .intro-text h1 {
+        font-size: 10px;
+     }
+    }
